@@ -1,4 +1,4 @@
-# Front_end<br>
+# 팀 프로젝트 조건<br>
 코드: GitHub 에 업로드(조별 1개의 repository)<br>
 - 3개의 directory(user/, manage/, exec/)로 구성,<br>
 - user: 사용자 기기에서 수행되는 코드 (html, js, css 파일등)<br>
